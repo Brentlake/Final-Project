@@ -4,15 +4,20 @@ body{
  color:blue;
  text-align:center;
  font-size:55px;
- margin-top:35px }
+ margin-top:45px }
 
 
 
 
  #midpage{
  	font-family: 'Permanent Marker', cursive;
- 	margin-top:15%;
- 	font-family: 'Orbitron', sans-serif;
+ 	margin-top:20%;
+ 	font-family: 'Sigmar One', cursive;
  }
- .font{font-family: 'Permanent Marker', cursive;
+h1{
+	font-family: 'Sigmar One', cursive;
+}
+#genreone{
+	length:35px;
+	height:35px;
 }
