@@ -1,5 +1,5 @@
 body{
-	font-family: 'Permanent Marker', cursive;
+	font-family: 'Audiowide', cursive;
  background-image: url("http://www.anishdua.com/wp-content/uploads/2016/07/Light-Grey-Background-Hd-5-1.jpg");
  color:blue;
  text-align:center;
@@ -10,14 +10,30 @@ body{
 
 
  #midpage{
- 	font-family: 'Permanent Marker', cursive;
+ 	font-family: 'Audiowide', cursive;
  	margin-top:20%;
- 	font-family: 'Sigmar One', cursive;
+ 	
  }
-h1{
-	font-family: 'Sigmar One', cursive;
+#baheader{
+	font-family: 'Audiowide', cursive;
 }
 #genreone{
 	length:35px;
 	height:35px;
+}
+.size{
+	max-height:300px;
+	max-width:300px;
+}
+#dopefont{
+	font-family: 'Audiowide', cursive;
+}
+.musiclife{
+	color:black;
+	font-family: 'Aldrich', sans-serif;
+	width:85%;
+}
+#musiclife{
+	width:95%;
+	max-height:200px;
 }
