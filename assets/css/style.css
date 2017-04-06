@@ -1,10 +1,11 @@
 body{
 	font-family: 'Audiowide', cursive;
- background-image: url("http://www.anishdua.com/wp-content/uploads/2016/07/Light-Grey-Background-Hd-5-1.jpg");
+ background-image: url("https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.1/gh-fork-ribbon.min.css");
  color:darkgrey;
  text-align:center;
  font-size:55px;
- margin-top:45px }
+ margin-top:45px
+  }
 
 
 
@@ -17,6 +18,7 @@ body{
  }
 #baheader{
 	color:darkgrey;
+	font-family: 'Alfa Slab One', cursive;
 
 }
 #genreone{
