@@ -17,11 +17,14 @@ body{
  	font-family: 'Press Start 2P', cursive;
 
  	margin-top:20%;
- 	
+ 	text-align:center;
+ 	color:white;	
+ 	font-color:black;
  }
 #baheader{
 	color:darkgrey;
 	font-family: 'Alfa Slab One', cursive;
+	text-align:center;
 
 }
 #genreone{
@@ -76,11 +79,19 @@ overflow:hidden;}
 #smaller{
 	font-size:30px;
 	padding-top:50px;
+	text-align:center;
 }
 
 .size{
 	font-size:18px;
+	align-content:;
 }
 .align{
 
+}
+#marginem{
+	margin-left:65px;
+}
+.aligncenter{
+	align-content:center;
 }
