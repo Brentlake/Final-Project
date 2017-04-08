@@ -21,8 +21,12 @@ body{
  	font-color:black;
  }
 #baheader{
-	color:darkgrey;
-	font-family: 'Alfa Slab One', cursive;
+	color:black;
+	font-family: 'Permanent Marker', cursive;
+	font-size:85px;
+	background:lightgrey;
+
+
 	text-align:center;
 
 }
@@ -79,6 +83,9 @@ overflow:hidden;}
 	font-size:30px;
 	padding-top:50px;
 	text-align:center;
+	font-family: 'Permanent Marker', cursive;
+	color:black;
+
 }
 
 .size{
@@ -95,9 +102,7 @@ overflow:hidden;}
 	align-content:center;
 }
 
-.centerimg{
-	max-width:150px; 
-	max-height:150px;
+
 
 }
 .centerimgs{
@@ -108,6 +113,7 @@ overflow:hidden;}
 
 .cnthome{
 	float:right;
+	color:darkgrey;
 }
 
 
@@ -115,4 +121,24 @@ overflow:hidden;}
 	position:fixed;bottom-right;
 	color:darkgrey;
 
+}
+#centerone{
+	height:150px;
+	width:150px;
+}
+#img2{
+	height:136px;
+	width:150px;
+
+}
+#fontbtn{
+	font-family: 'Permanent Marker', cursive;
+	background:silver;
+	color:black;
+
+}
+
+#bodybackground{
+
+	background-image: url("http://wallpapercave.com/wp/jaqkcSk.jpg");
 }
