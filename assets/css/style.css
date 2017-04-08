@@ -106,4 +106,13 @@ overflow:hidden;}
 
 }
 
+.cnthome{
+	float:right;
+}
 
+
+.btmright{
+	position:fixed;bottom-right;
+	color:darkgrey;
+
+}
