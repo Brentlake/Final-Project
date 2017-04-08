@@ -47,7 +47,7 @@ body{
 	width:85%;
 }
 #musiclife{
-	width:95%;
+	width:100%;
 	max-height:200px;
 }
 html{height:100%;}
@@ -141,4 +141,7 @@ overflow:hidden;}
 #bodybackground{
 
 	background-image: url("http://wallpapercave.com/wp/jaqkcSk.jpg");
+}
+#padding{
+	padding-left:8px;
 }
