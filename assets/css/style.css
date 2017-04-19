@@ -8,9 +8,16 @@ body{
  font-size:55px;
  margin-top:45px
   }
+.pmargin{
+	margin-top:2%;
+}
 
 
 
+.marginbody{
+
+	margin-top:10%;
+}
 
  #midpage{
  	font-family: 'Press Start 2P', cursive;
@@ -106,6 +113,7 @@ overflow:hidden;}
 
 }
 .centerimgs{
+	
 	max-width:250px; 
 	max-height:250px;
 
