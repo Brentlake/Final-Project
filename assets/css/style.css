@@ -181,3 +181,41 @@ height:183px;
 	height:100px;
 	background:darkgrey;
 }
+#topleft{
+	position:absolute;
+	margin-left:5px;
+	margin-top:5px;
+}
+.rapbr{
+	background-image:url("http://nspa.in/blog/wp-content/uploads/2015/10/rap-music-2.jpg");
+	background-size:cover;
+}a{
+	color:white;
+	background:black;
+}
+.countrybr
+{
+	background-image:url("http://wildwestcountryfestival.com/wp-content/uploads/2015/02/Guitar-Background.jpg");
+	background-size:cover;
+}
+.rockbr{
+	background-image:url("http://cdn.wallpapersafari.com/87/18/109sk3.jpg");
+	background-size:cover;
+}
+
+.cntryfnt{
+	color:black;
+
+}
+
+.homecolor{
+	color:white;
+}
+h3{
+	color:white;
+}
+
+.raptitle{
+color:white;
+background:black;
+}
