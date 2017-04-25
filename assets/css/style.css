@@ -7,6 +7,8 @@ body{
  text-align:left;
  font-size:55px;
  margin-top:45px
+
+
   }
 .pmargin{
 	margin-top:2%;
@@ -66,17 +68,7 @@ background: -moz-linear-gradient(top, rgba(13,52,58,1) 0%, rgba(0,0,0,1) 100%);
 overflow:hidden;}
 
 
-.drop {
-  background:-webkit-gradient(linear,0% 0%,0% 100%, from(rgba(13,52,58,1) ), to(rgba(255,255,255,0.6))  );
-  background: -moz-linear-gradient(top, rgba(13,52,58,1) 0%, rgba(255,255,255,.6) 100%);
-	width:1px;
-	height:89px;
-	position: absolute;
-	bottom:200px;
-	-webkit-animation: fall .63s linear infinite;
-  -moz-animation: fall .63s linear infinite;
-  
-}
+
 
 /* animate the drops*/
 @-webkit-keyframes fall {
@@ -108,14 +100,24 @@ overflow:hidden;}
 .aligncenter{
 	align-content:center;
 }
-
-
+.electronicbr{
+	background-image:url("https://media1.giphy.com/media/YBM4gYO4c70is/giphy.gif");
+background-size:cover;
 
 }
-.centerimgs{
+
+#eminem{
+	height:183px;
+}
+
+#marshmello{
+height:183px;
+}
+}
+.centerimg{
 	
-	max-width:250px; 
-	max-height:250px;
+	width:250px; 
+	height:250px;
 
 }
 
@@ -123,7 +125,10 @@ overflow:hidden;}
 	float:right;
 	color:darkgrey;
 }
-
+.img1{
+	height:133px;
+	
+}
 
 .btmright{
 	position:fixed;bottom-right;
@@ -135,8 +140,8 @@ overflow:hidden;}
 	width:150px;
 }
 #img2{
-	height:136px;
-	width:150px;
+	height:150px;
+	
 
 }
 #fontbtn{
@@ -152,4 +157,7 @@ overflow:hidden;}
 }
 #padding{
 	padding-left:8px;
+}
+#img{
+	height:150px;
 }
