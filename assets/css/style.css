@@ -1,222 +1,186 @@
-
-
-body{
-	font-family: 'Audiowide', cursive;
- background-image: url("https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.1/gh-fork-ribbon.min.css");
- color:darkgrey;
- text-align:left;
- font-size:55px;
- margin-top:45px
-
-
-  }
-  #gameimg{
-  	height:150px;
-  }
-  #img3{
-
-  	height:100px;
-  	background:darkgrey;
-  }
-
-  #img4{
-  	height:100px;
-  	background:darkgrey;
-  }
-.pmargin{
-	margin-top:2%;
-}
-
-.countrybr{
-	background-image:url("https://media2.giphy.com/media/e6RKl5gof6gTK/giphy.gif");
-
-	background-size:cover;
-}
-
-.marginbody{
-
-	margin-top:10%;
-}
-
- #midpage{
- 	font-family: 'Press Start 2P', cursive;
-
- 	margin-top:20%;
- 	text-align:center;
- 	color:white;	
- 	font-color:black;
- }
-#baheader{
-	color:black;
-	font-family: 'Permanent Marker', cursive;
-	font-size:85px;
-	background:lightgrey;
-
-
-	text-align:center;
-
-}
-#genreone{
-	width:35px;
-	height:35px;
-}
-.size{
-	max-height:300px;
-	max-width:300px;
-}
-#dopefont{
-	font-family: 'Audiowide', cursive;
-}
-.musiclife{
-	color:black;
-	font-family: 'Aldrich', sans-serif;
-	width:85%;
-}
-#musiclife{
-	width:100%;
-	max-height:200px;
-}
-html{height:100%;}
 body {
-background:#0D343A;
-background:-webkit-gradient(linear,0% 0%,0% 100%, from(rgba(13,52,58,1) ), to(#000000)  );
-background: -moz-linear-gradient(top, rgba(13,52,58,1) 0%, rgba(0,0,0,1) 100%);
-
-overflow:hidden;}
-
-
-
-
+    font-family: 'Audiowide', cursive;
+    background-image: url("https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.1/gh-fork-ribbon.min.css");
+    color: darkgrey;
+    text-align: left;
+    font-size: 55px;
+    margin-top: 45px
+}
+#gameimg {
+    height: 150px;
+}
+#img3 {
+    height: 100px;
+    background: darkgrey;
+}
+#img4 {
+    height: 100px;
+    background: darkgrey;
+}
+.pmargin {
+    margin-top: 2%;
+}
+.countrybr {
+    background-image: url("https://media2.giphy.com/media/e6RKl5gof6gTK/giphy.gif");
+    background-size: cover;
+}
+.marginbody {
+    margin-top: 10%;
+}
+#midpage {
+    font-family: 'Press Start 2P', cursive;
+    margin-top: 20%;
+    text-align: center;
+    color: white;
+    font-color: black;
+}
+#baheader {
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 85px;
+    background: lightgrey;
+    text-align: center;
+}
+#genreone {
+    width: 35px;
+    height: 35px;
+}
+.size {
+    max-height: 300px;
+    max-width: 300px;
+}
+#dopefont {
+    font-family: 'Audiowide', cursive;
+}
+.musiclife {
+    color: black;
+    font-family: 'Aldrich', sans-serif;
+    width: 85%;
+}
+#musiclife {
+    width: 100%;
+    max-height: 200px;
+}
+html {
+    height: 100%;
+}
+body {
+    background: #0D343A;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(13, 52, 58, 1)), to(#000000));
+    background: -moz-linear-gradient(top, rgba(13, 52, 58, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    overflow: hidden;
+}
 /* animate the drops*/
+
 @-webkit-keyframes fall {
-	to {margin-top:900px;}
+    to {
+        margin-top: 900px;
+    }
 }
 @-moz-keyframes fall {
-	to {margin-top:900px;
-	}
+    to {
+        margin-top: 900px;
+    }
 }
-#smaller{
-	font-size:30px;
-	padding-top:50px;
-	text-align:center;
-	font-family: 'Permanent Marker', cursive;
-	color:black;
-
+#smaller {
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    color: black;
 }
-
-.size{
-	font-size:18px;
-	
+.size {
+    font-size: 18px;
 }
 
-#marginem{
-	margin-left:65px;
+.aligncenter {
+    align-content: center;
 }
-.aligncenter{
-	align-content:center;
+.electronicbr {
+    background-image: url("https://media1.giphy.com/media/YBM4gYO4c70is/giphy.gif");
+    background-size: cover;
 }
-.electronicbr{
-	background-image:url("https://media1.giphy.com/media/YBM4gYO4c70is/giphy.gif");
-background-size:cover;
-
+#eminem {
+    height: 183px;
 }
-
-#eminem{
-	height:183px;
-}
-
-#marshmello{
-height:183px;
+#marshmello {
+    height: 183px;
 }
 }
-
-
-.cnthome{
-	float:right;
-	color:darkgrey;
+.cnthome {
+    float: right;
+    color: darkgrey;
 }
-.img1{
-	height:133px;
-	
+.img1 {
+    height: 133px;
 }
-
-.btmright{
-	position:fixed;bottom-right;
-	color:darkgrey;
-
+.btmright {
+    position: fixed;
+    bottom-right;
+    color: darkgrey;
 }
-#centerone{
-	height:150px;
-	width:150px;
+#centerone {
+    height: 150px;
+    width: 150px;
 }
-#img2{
-	height:100px;
-	background:darkgrey;
-	
-
+#img2 {
+    height: 100px;
+    background: darkgrey;
 }
-#fontbtn{
-	font-family: 'Permanent Marker', cursive;
-	background:silver;
-	color:black;
-
+#fontbtn {
+    font-family: 'Permanent Marker', cursive;
+    background: silver;
+    color: black;
 }
-
-#bodybackground{
-
-	background-image: url("http://wallpapercave.com/wp/jaqkcSk.jpg");
+#bodybackground {
+    background-image: url("http://wallpapercave.com/wp/jaqkcSk.jpg");
 }
-#padding{
-	padding-left:8px;
+#padding {
+    padding-left: 8px;
 }
-#img{
-	height:100px;
-	background:darkgrey;
+#img {
+    height: 100px;
+    background: darkgrey;
 }
-#img5{
-	height:100px;
-	background:darkgrey;
+#img5 {
+    height: 100px;
+    background: darkgrey;
 }
-#img6{
-	height:100px;
-	background:darkgrey;
+#img6 {
+    height: 100px;
+    background: darkgrey;
 }
-#topleft{
-	position:absolute;
-	margin-left:5px;
-	margin-top:5px;
+#topleft {
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 5px;
 }
-.rapbr{
-	background-image:url("http://nspa.in/blog/wp-content/uploads/2015/10/rap-music-2.jpg");
-	background-size:cover;
-}a{
-	color:white;
-	background:black;
+.rapbr {
+    background-image: url("http://nspa.in/blog/wp-content/uploads/2015/10/rap-music-2.jpg");
+    background-size: cover;
 }
-.countrybr
-{
-	background-image:url("http://wildwestcountryfestival.com/wp-content/uploads/2015/02/Guitar-Background.jpg");
-	background-size:cover;
+a {
+    color: white;
+    background: black;
 }
-.rockbr{
-	background-image:url("http://cdn.wallpapersafari.com/87/18/109sk3.jpg");
-	background-size:cover;
+.countrybr {
+    background-image: url("http://wildwestcountryfestival.com/wp-content/uploads/2015/02/Guitar-Background.jpg");
+    background-size: cover;
 }
-
-.cntryfnt{
-	color:black;
-
+.rockbr {
+    background-image: url("http://cdn.wallpapersafari.com/87/18/109sk3.jpg");
+    background-size: cover;
 }
-
-.homecolor{
-	color:white;
+.cntryfnt {
+    color: black;
 }
-h3{
-	color:white;
+.homecolor {
+    color: white;
 }
-
-.raptitle{
-color:white;
-background:black;
-
+h3 {
+    color: white;
+}
+.raptitle {
+    color: red;
+    background: black;
 }
